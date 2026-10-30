@@ -24,6 +24,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Evaluate a Dense Layer | Evaluate a PyTorch layer of independent scalar neurons sharing one input vector, with optional elementwise tanh. | https://www.tensortonic.com/problems/autograd-l07-dense-layer-forward |
 | Train a Tiny Micrograd MLP | Train a supplied scalar-output MLP with manual reverse-mode differentiation and deterministic gradient descent. | https://www.tensortonic.com/problems/autograd-l08-train-tiny-micrograd-mlp |
 | Implement Symmetric CLIP Contrastive Loss | Compute bidirectional CLIP contrastive loss for aligned image and text embeddings with a learned logit scale. | https://www.tensortonic.com/problems/cs336-l17-symmetric-clip-loss |
+| Generalized Advantage Estimation | Compute generalized advantage estimates backward through rewards, values, discounting, and trace decay. | https://www.tensortonic.com/problems/gae-computation |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/lyuxiao2000)
 <!-- tensortonic:end -->
