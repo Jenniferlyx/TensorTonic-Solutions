@@ -40,6 +40,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Loss Functions | Implement three common loss functions from scratch using PyTorch tensor operations: mean squared error, cross-entropy, and Huber loss. | https://www.tensortonic.com/problems/pytorch-loss-functions |
 | Learning Rate Warmup Scheduler | Implement a function that computes a learning rate schedule combining linear warmup with cosine decay. | https://www.tensortonic.com/problems/pytorch-lr-warmup-scheduler |
 | Manual Weight Update | Perform a PyTorch training step with manual parameter updates after backpropagation, without an optimizer object. | https://www.tensortonic.com/problems/pytorch-manual-weight-update |
+| Masked Causal Attention | Implement scaled dot-product attention with a causal mask that prevents each position from attending to future positions. | https://www.tensortonic.com/problems/pytorch-masked-causal-attention |
 | Mini Training Loop | Run one complete PyTorch training epoch over a DataLoader and return the mean batch loss. | https://www.tensortonic.com/problems/pytorch-mini-training |
 | Optimizer Scheduler | Train with a PyTorch optimizer and StepLR schedule, recording the learning rate applied at each epoch. | https://www.tensortonic.com/problems/pytorch-optimizer-scheduler |
 | Softmax from Scratch | Implement numerically stable batched softmax in PyTorch by shifting logits before exponentiation and normalization. | https://www.tensortonic.com/problems/pytorch-softmax-from-scratch |
